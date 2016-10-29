@@ -1,4 +1,5 @@
-#
+"""I AM IN GROUP-7. BUT THIS IS MY SOLO SOLUTION. ME AND MY PARTNER DID START TO WORK TOGETHER, BUT THEN HE HAD TO LEAVE FOR A WHILE
+    SO WE DECIDED TO DO THE PROJECT SEPERATELY AND COMPARE AND CONTRAST OUR CODE AT A LATER TIME"""
 def create_bookstore(name):
     return {'name':name, 'author_id':0, 'authlist':[], 'lebook_id':0, 'booklist':[], 'dabook':[]}
 
